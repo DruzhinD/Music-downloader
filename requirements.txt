@@ -1,0 +1,4 @@
+bs4==0.0.2
+fake-useragent==1.5.1
+mutagen==1.47.0
+requests==2.32.3
